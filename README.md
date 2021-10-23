@@ -14,7 +14,7 @@
 
     "difficulty": "easy",
     "description": "If you are a fan of 7PHP, send them an email and receive some free stickers!"
-    "dateAdded": "2018-11-23T17:27:00.000Z",
+    "dateAdded": 2018-11-23
     "tags": ["stickers", "expired"]
   
   
@@ -35,7 +35,7 @@
  
     "difficulty": "hard",
     "description": "Write a blog post on frontend development topics, get some cool Alligator stickers!"
-    "dateAdded": "2018-12-09T07:08:00.000Z",
+    "dateAdded": "2018-12-09
     "tags": ["stickers"]
   <br>
   <br>
@@ -55,7 +55,7 @@
     "difficulty": "medium",
     "description": "Submit more than 4 PRs and invite others to contribute to Appsmith repository will get a special prize", 
      "https://7php.com/wp-content/uploads/2018/05/7php-sticker-v2.jpg",
-    "dateAdded": "2021-09-28",
+    "dateAdded": 2021-09-28
     "tags": ["hacktoberfest"]
   
   
@@ -77,7 +77,7 @@
     "difficulty": "medium",
     "description": "Contributing to any Appwrite repo this October will land you some cool merchandise, including stickers, magnets, and pins. There is also an exclusive T-Shirt for this month's top 20 contributors, and a chance to win a Digitalocean, Intel, and 'the Practical DEV' limited edition t-shirt.", 
      "https://7php.com/wp-content/uploads/2018/05/7php-sticker-v2.jpg",
-    "dateAdded": "2020-09-21T18:32:00.000Z",
+    "dateAdded": "2020-09-21
     "tags": ["badges", "hacktoberfest", "stickers", "clothing", "expired"]
   
   
@@ -85,11 +85,94 @@
   <br>
   <br>    
   
-  
-  
-  
+## Camunda
+<p align="center">
+<img src= "https://camunda.com/wp-content/uploads/2021/09/Join-the-Fun-%E2%80%93-Hacktoberfest-2021-2-09012021.png"   height="350" width="300">       
+</p>
+<br>
+
+"reference": 
+
+ 
+    "difficulty": "medium",
+    "description": "Complete the Camunda challenge to earn a limited edition Camunda x Hacktoberfest 2021 t-shirt as well as nifty stickers.",
+    "dateAdded": 2021-09-28
+    "tags": ["clothing", "hacktoberfest", "stickers"]
+  <br>
+  <br>
+  <br>     
     
   
+  
+## Codeship
+<p align="center">
+<img src= "https://i.postimg.cc/1RL8YZPx/Bcob-ZCE-Imgur-1.jpg"   height="350" width="300">       
+</p>
+<br>
+
+"reference": "https://codeship.com/swag",
+
+ 
+    "difficulty": "medium",
+    "description": "Submit 15 builds in 30 days, get stickers sent your way! (Ships only to North America and Europe)",
+    "dateAdded": 2018-02-18
+    "tags": ["stickers"]
+  <br>
+  <br>
+  <br>   
+  
+  
+## DEV Podcast
+<p align="center">
+<img src= "https://dev-to-uploads.s3.amazonaws.com/i/g6kt7ukqd9adhssdmoe9.png"   height="350" width="300">       
+</p>
+<br>
+
+"reference": "https://airtable.com/shr8oKAIMZgdYnBxx", 
+
+ 
+    "difficulty": "easy",
+    "description": "Leave a review about DevNews OR DevDiscuss podcasts on Apple Podcasts and get a free pack of DEV stickers.",
+    "dateAdded": 2020-10-01
+    "tags": ["stickers"]
+  <br>
+  <br>
+  <br>   
+  
+## devRant
+<p align="center">
+<img src= "https://devrant.com/static/devrant/img/stickers-collection3.png"   height="350" width="300">       
+</p>
+<br>
+
+"reference": "https://devrant.com/free-stickers",
+
+ 
+    "difficulty": "medium",
+    "description": "Get 30 ++'s on a single rant you've posted to devRant to receive 3 free high-quality devRant laptop stickers! Or post an awesome rant that gets over 750 ++'s to receive a free devRant squishy stress ball!",
+    "dateAdded": 2018-02-19
+    "tags": ["accessories", "stickers"]
+  <br>
+  <br>
+  <br>   
+    
+  
+## 
+<p align="center">
+<img src=    height="350" width="300">       
+</p>
+<br>
+
+"reference": 
+
+ 
+    "difficulty": 
+    "description": 
+    "dateAdded": 
+    "tags": 
+  <br>
+  <br>
+  <br>   
   
   
   
@@ -106,172 +189,8 @@
   
   <!--
   
-  
 
 
-  {
-    "name": "Aqua",
-    "difficulty": "medium",
-    "description": "Contribute to Aqua's open source portfolio, and win stickers, t-shirts and even a book on Kubernetes Security.",
-    "reference": "https://blog.aquasec.com/aqua-open-source-security-hacktoberfest",
-    "image": "https://blog.aquasec.com/hs-fs/hubfs/Blog/HacktoberFest%20Blog_650_315.jpg?width=1300&name=HacktoberFest%20Blog_650_315.jpg",
-    "dateAdded": "2019-10-07T13:05:05.000Z",
-    "tags": ["stickers", "clothing", "hacktoberfest", "expired"]
-  },
-  {
-    "name": "AquaSec",
-    "difficulty": "medium",
-    "description": "Contribute to AquaSec's open source portfolio and win branded sticker packs, face masks, or limited edition Aqua Hacktoberfest T-shirts!",
-    "reference": "https://blog.aquasec.com/hacktoberfest-2020-aqua-open-source",
-    "image": "https://blog.aquasec.com/hs-fs/hubfs/Hacktoberfest%202.0%20Blog%20Image%20v4.jpg",
-    "dateAdded": "2020-10-01T19:47:00.000Z",
-    "tags": ["hacktoberfest", "stickers", "clothing", "expired"]
-  },
-  {
-    "name": "Aras",
-    "difficulty": "medium",
-    "description": "Submit an improvement to any <a href='http://community.aras.com/en/projects/'>Aras Community Project</a> in October 2018 to earn stickers! Submit five, earn a limited edition T-shirt!",
-    "reference": "https://community.aras.com/b/english/posts/join-aras-labs-hacktoberfest-2018",
-    "image": "https://www.aras.com/-/media/Images/Content-Row-Images/im-an-innovator.png",
-    "dateAdded": "2018-10-24T11:45:00.000Z",
-    "tags": ["clothing", "hacktoberfest", "expired", "stickers"]
-  },
-  {
-    "name": "Auth0",
-    "difficulty": "hard",
-    "description": "Have one accepted pull request in a qualifying Auth0 Github project in October 2018 and receive a kickass 2018 Hacktoberfest t-shirt courtesy of the awesome Auth0 team, along with a psychedelic Auth0 sticker pack!",
-    "reference": "https://auth0.com/blog/celebrate-hacktoberfest-with-auth0/",
-    "image": "https://images.all-free-download.com/images/graphiclarge/blank_t_shirt_clip_art_19042.jpg",
-    "dateAdded": "2018-10-06T03:35:20.000Z",
-    "tags": ["clothing", "hacktoberfest", "expired", "stickers"]
-  },
-  {
-    "name": "Blockstack",
-    "difficulty": "medium",
-    "description": "Complete the Zero-to-DApp tutorial and submit your sample to App.co to get a T-shirt!",
-    "reference": "https://community.blockstack.org/z2d-shirt",
-    "image": "https://static.tildacdn.com/tild6433-6535-4833-b932-323062343930/Zero_to_Dapp_shirt_p.png",
-    "dateAdded": "2020-01-19T05:30:00.000Z",
-    "tags": ["clothing", "expired"]
-  },
-  {
-    "name": "Blockstack",
-    "difficulty": "easy",
-    "description": "Get up to 5 awesome stickers from Blockstack! Don't be evil!",
-    "reference": "https://web.archive.org/web/20200616131621/https://blockstack.myshopify.com/collections/frontpage/products/dont-be-evil-stickers",
-    "image": "https://i.imgur.com/sHgpibu.jpg",
-    "dateAdded": "2020-07-21T14:42:00.000Z",
-    "tags": ["stickers", "expired"]
-  },
-  {
-    "name": "Camunda",
-    "difficulty": "medium",
-    "description": "Complete the Camunda challenge to earn a limited edition Camunda x Hacktoberfest 2021 t-shirt as well as nifty stickers.",
-    "reference": "https://camunda.com/hacktoberfest2021/",
-    "image": "https://camunda.com/wp-content/uploads/2021/09/Join-the-Fun-%E2%80%93-Hacktoberfest-2021-2-09012021.png",
-    "dateAdded": "2021-09-28T15:56:00.000Z",
-    "tags": ["clothing", "hacktoberfest", "stickers"]
-  },
-  {
-    "name": "CircleCI",
-    "difficulty": "medium",
-    "description": "Participate in #Orbtoberfest with CircleCI and claim limited edition swag! 1 - 3 pull requests: Limited-Edition Sticker, 4+ pull requests: Limited-Edition T-shirt",
-    "reference": "https://hacktoberfest.circleci.com",
-    "image": "https://i.imgur.com/MkxWDck.jpg",
-    "dateAdded": "2020-10-02T19:30:00.000Z",
-    "tags": ["clothing", "hacktoberfest", "stickers", "expired"]
-  },
-  {
-    "name": "Codeship",
-    "difficulty": "medium",
-    "description": "Submit 15 builds in 30 days, get stickers sent your way! (Ships only to North America and Europe)",
-    "reference": "https://codeship.com/swag",
-    "image": "https://i.postimg.cc/1RL8YZPx/Bcob-ZCE-Imgur-1.jpg",
-    "dateAdded": "2018-02-18T18:44:53.000Z",
-    "tags": ["stickers"]
-  },
-  {
-    "name": "CodingBlocks",
-    "difficulty": "medium",
-    "description": "Have one merged PR on any of <a href='https://cb.lk/gh'>Coding Blocks open source projects</a> and get t-shirt with stickers or even a bag (1 PR - t-shirt, 5+ PRs - bag)",
-    "reference": "https://blog.codingblocks.com/2019/cb-hacktoberfest-2019/",
-    "image": "https://i.imgur.com/0SrSsNM.png",
-    "dateAdded": "2019-10-09T19:00:00.000Z",
-    "tags": ["accessories", "stickers", "hacktoberfest", "clothing", "expired"]
-  },
-  {
-    "name": "CommerceJS",
-    "difficulty": "medium",
-    "description": "Submit one pull request to Commerce.js to win more cool swag!",
-    "reference": "https://commercejs.com/docs/hacktoberfest/",
-    "image": "https://images.ctfassets.net/u77gi3ejnmxq/32QPYCIi28peoxPpwxmiml/3a56eecf0eaa4ec682d78ff0f560bd82/Group_5.svg",
-    "dateAdded": "2020-10-06T07:54:00.000Z",
-    "tags": ["hacktoberfest", "stickers", "badges", "expired"]
-  },
-  {
-    "name": "Container Solutions",
-    "difficulty": "easy",
-    "description": "Submit one successful pull request to any of Container Solutions' repos to win a free t-shirt!",
-    "reference": "https://blog.container-solutions.com/container-solutions-does-hacktoberfest",
-    "image": "https://blog.container-solutions.com/hubfs/hacktober2020.png",
-    "dateAdded": "2020-10-15T06:40:00.000Z",
-    "tags": ["hacktoberfest", "clothing", "expired"]
-  },
-  {
-    "name": "Contentful",
-    "difficulty": "easy",
-    "description": "Sign up to Contentful and get a free pair of socks to your door.",
-    "reference": "https://www.contentful.com/resources/syntaxfm/",
-    "image": "https://i.imgur.com/15gp2Ml.jpg",
-    "dateAdded": "2018-12-03T04:36:19.000Z",
-    "tags": ["clothing", "expired"]
-  },
-  {
-    "name": "Datenanfragen.de e. V.",
-    "difficulty": "medium",
-    "description": "One merged PR gets at least 3 stickers (limited to 100 sets) and a chance at a limited edition t-shirt.",
-    "reference": "https://www.datarequests.org/blog/hacktoberfest-2020/",
-    "image": "https://www.datarequests.org/blog/hacktoberfest-2020/hacktoberfest-2020_hu28b1cba020bf43bc24568088e4124bec_241852_881x0_resize_q75_box.jpg",
-    "dateAdded": "2020-10-01T19:00:00.000Z",
-    "tags": ["stickers", "clothing", "hacktoberfest", "expired"]
-  },
-  {
-    "name": "Deque",
-    "difficulty": "easy",
-    "description": "Answer Deque's feedback survey once you're logged in to get an awesome t-shirt.",
-    "reference": "https://web.archive.org/web/20191011183127/https://twitter.com/dequesystems/status/1182651282869362694",
-    "image": "https://i.imgur.com/t82DlcW.jpg",
-    "dateAdded": "2020-02-25T14:33:22.000Z",
-    "tags": ["clothing", "expired"]
-  },
-  {
-    "name": "DEV Podcast",
-    "difficulty": "easy",
-    "description": "Leave a review about DevNews OR DevDiscuss podcasts on Apple Podcasts and get a free pack of DEV stickers.",
-    "reference": "https://airtable.com/shr8oKAIMZgdYnBxx",
-    "image": "https://dev-to-uploads.s3.amazonaws.com/i/g6kt7ukqd9adhssdmoe9.png",
-    "dateAdded": "2020-10-01T17:18:00.000Z",
-    "tags": ["stickers"]
-  },
-  {
-    "name": "Devfolio",
-    "difficulty": "hard",
-    "description": "Contribute 4 valid PRs to one of Devfolio's approved repositories, and receive some stickers! Top 50 contributors will also get a t-shirt. (Ships only to India)",
-    "reference": "https://devfolio.co/blog/devfolio-hacktoberfest-2020/",
-    "image": "https://pbs.twimg.com/media/EJfpSDTUUAIXtdP.jpg",
-    "dateAdded": "2020-10-01T16:35:21.000Z",
-    "tags": ["stickers", "clothing", "hacktoberfest", "expired"]
-  },
-  {
-    "name": "devRant",
-    "difficulty": "medium",
-    "description": "Get 30 ++'s on a single rant you've posted to devRant to receive 3 free high-quality devRant laptop stickers! Or post an awesome rant that gets over 750 ++'s to receive a free devRant squishy stress ball!",
-    "reference": "https://devrant.com/free-stickers",
-    "image": "https://devrant.com/static/devrant/img/stickers-collection3.png",
-    "dateAdded": "2018-02-19T09:11:04.000Z",
-    "tags": ["accessories", "stickers"]
-  },
-  {
     "name": "Docusaurus",
     "difficulty": "hard",
     "description": "Get swag for migrating websites to Docusaurus 2!",
