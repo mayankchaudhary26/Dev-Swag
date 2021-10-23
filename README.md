@@ -124,17 +124,18 @@
   
 ## DEV Podcast
 <p align="center">
-<img src= "https://dev-to-uploads.s3.amazonaws.com/i/g6kt7ukqd9adhssdmoe9.png"   height="350" width="300">       
+<img src= "https://dev-to-uploads.s3.amazonaws.com/i/g6kt7ukqd9adhssdmoe9.png"   height="350" width="400">       
 </p>
 <br>
 
 "reference": "https://airtable.com/shr8oKAIMZgdYnBxx", 
 
- 
-    "difficulty": "easy",
-    "description": "Leave a review about DevNews OR DevDiscuss podcasts on Apple Podcasts and get a free pack of DEV stickers.",
-    "dateAdded": 2020-10-01
-    "tags": ["stickers"]
+  
+- 🔭  "difficulty": "easy",
+- 🌱  "description": "Leave a review about DevNews OR DevDiscuss podcasts on Apple Podcasts and get a free pack of DEV stickers.",
+- ✨  "dateAdded": 2020-10-01
+- 📫  "tags":  ["stickers"]
+
   <br>
   <br>
   <br>   
@@ -148,10 +149,10 @@
 "reference": "https://devrant.com/free-stickers",
 
  
-    "difficulty": "medium",
-    "description": "Get 30 ++'s on a single rant you've posted to devRant to receive 3 free high-quality devRant laptop stickers! Or post an awesome rant that gets over 750 ++'s to receive a free devRant squishy stress ball!",
-    "dateAdded": 2018-02-19
-    "tags": ["accessories", "stickers"]
+- 🔭  "difficulty": "medium",
+- 🌱  "description": "Get 30 ++'s on a single rant you've posted to devRant to receive 3 free high-quality devRant laptop stickers! Or post an awesome rant that gets over 750 ++'s      to receive a free devRant squishy stress ball!",
+- ✨  "dateAdded": 2018-02-19
+- 📫   "tags": ["accessories", "stickers"]
   <br>
   <br>
   <br>   
@@ -166,10 +167,10 @@
 "reference": 
 
  
-    "difficulty": 
-    "description": 
-    "dateAdded": 
-    "tags": 
+- 🔭  "difficulty": 
+- 🌱  "description": 
+- ✨  "dateAdded": 
+- 📫  "tags": 
   <br>
   <br>
   <br>   
