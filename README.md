@@ -65,13 +65,30 @@
   
   
   
+## Appwrite
+<p align="center">
+<img src="https://miro.medium.com/max/700/1*PUyLJqc4AXHOmXwkH9FNKA.png" height="350" width="800">       
+</p>
+<br>
+
+"reference": "https://medium.com/appwrite-io/celebrate-hacktoberfest-20-with-appwrite-1356337e2159"
+
+
+    "difficulty": "medium",
+    "description": "Contributing to any Appwrite repo this October will land you some cool merchandise, including stickers, magnets, and pins. There is also an exclusive T-Shirt for this month's top 20 contributors, and a chance to win a Digitalocean, Intel, and 'the Practical DEV' limited edition t-shirt.", 
+     "https://7php.com/wp-content/uploads/2018/05/7php-sticker-v2.jpg",
+    "dateAdded": "2020-09-21T18:32:00.000Z",
+    "tags": ["badges", "hacktoberfest", "stickers", "clothing", "expired"]
+  
+  
+  <br>
+  <br>
+  <br>    
   
   
   
   
-  
-  
-  
+    
   
   
   
@@ -91,15 +108,7 @@
   
   
 
-  {
-    "name": "Appwrite",
-    "difficulty": "medium",
-    "description": "Contributing to any Appwrite repo this October will land you some cool merchandise, including stickers, magnets, and pins. There is also an exclusive T-Shirt for this month's top 20 contributors, and a chance to win a Digitalocean, Intel, and 'the Practical DEV' limited edition t-shirt.",
-    "reference": "https://medium.com/appwrite-io/celebrate-hacktoberfest-20-with-appwrite-1356337e2159",
-    "image": "https://miro.medium.com/max/700/1*PUyLJqc4AXHOmXwkH9FNKA.png",
-    "dateAdded": "2020-09-21T18:32:00.000Z",
-    "tags": ["badges", "hacktoberfest", "stickers", "clothing", "expired"]
-  },
+
   {
     "name": "Aqua",
     "difficulty": "medium",
