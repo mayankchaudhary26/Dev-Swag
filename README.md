@@ -44,27 +44,26 @@
 
 
 ## Appsmith
+
+  
+## 
 <p align="center">
-<img src="https://uploads-ssl.webflow.com/5f3d61ff1ad2bb54772d57de/614dbb8051b73a9c5ce9382e_Appsmith_HF2021%20(1)-p-1600.png" height="350" width="800">       
+<img src=  "https://7php.com/wp-content/uploads/2018/05/7php-sticker-v2.jpg"   height="350" width="300">       
 </p>
 <br>
 
-"reference": "https://www.appsmith.com/blog/hacktoberfest-2021-let-the-contributions-begin"
+"reference": 
 
-
-    "difficulty": "medium",
-    "description": "Submit more than 4 PRs and invite others to contribute to Appsmith repository will get a special prize", 
-     "https://7php.com/wp-content/uploads/2018/05/7php-sticker-v2.jpg",
-    "dateAdded": 2021-09-28
-    "tags": ["hacktoberfest"]
-  
-  
+ 
+- 🔭  "difficulty": "medium",
+- 🌱  "description": "Submit more than 4 PRs and invite others to contribute to Appsmith repository will get a special prize", 
+- ✨  "dateAdded": 2021-09-28
+- 📫  "tags": ["hacktoberfest"]
   <br>
   <br>
-  <br>  
-  
-  
-  
+  <br>   
+
+    
 ## Appwrite
 <p align="center">
 <img src="https://miro.medium.com/max/700/1*PUyLJqc4AXHOmXwkH9FNKA.png" height="350" width="800">       
@@ -74,12 +73,10 @@
 "reference": "https://medium.com/appwrite-io/celebrate-hacktoberfest-20-with-appwrite-1356337e2159"
 
 
-    "difficulty": "medium",
-    "description": "Contributing to any Appwrite repo this October will land you some cool merchandise, including stickers, magnets, and pins. There is also an exclusive T-Shirt for this month's top 20 contributors, and a chance to win a Digitalocean, Intel, and 'the Practical DEV' limited edition t-shirt.", 
-     "https://7php.com/wp-content/uploads/2018/05/7php-sticker-v2.jpg",
-    "dateAdded": "2020-09-21
-    "tags": ["badges", "hacktoberfest", "stickers", "clothing", "expired"]
-  
+- 🔭  "difficulty": "medium",
+- 🌱  "description": "Contributing to any Appwrite repo this October will land you some cool merchandise, including stickers, magnets, and pins. There is also an exclusive T-                         Shirt for this month's top 20 contributors, and a chance to win a Digitalocean, Intel, and 'the Practical DEV' limited edition t-shirt.", 
+- ✨  "dateAdded": 2020-09-21
+- 📫  "tags": ["badges", "hacktoberfest", "stickers", "clothing", "expired"]
   
   <br>
   <br>
@@ -93,11 +90,11 @@
 
 "reference": 
 
- 
-    "difficulty": "medium",
-    "description": "Complete the Camunda challenge to earn a limited edition Camunda x Hacktoberfest 2021 t-shirt as well as nifty stickers.",
-    "dateAdded": 2021-09-28
-    "tags": ["clothing", "hacktoberfest", "stickers"]
+  
+- 🔭  "difficulty":  "medium",
+- 🌱  "description": "Complete the Camunda challenge to earn a limited edition Camunda x Hacktoberfest 2021 t-shirt as well as nifty stickers.",
+- ✨  "dateAdded": 2021-09-28
+- 📫  "tags":  ["clothing", "hacktoberfest", "stickers"]
   <br>
   <br>
   <br>     
@@ -112,11 +109,10 @@
 
 "reference": "https://codeship.com/swag",
 
- 
-    "difficulty": "medium",
-    "description": "Submit 15 builds in 30 days, get stickers sent your way! (Ships only to North America and Europe)",
-    "dateAdded": 2018-02-18
-    "tags": ["stickers"]
+- 🔭  "difficulty": "medium",
+- 🌱  "description": "Leave a review about DevNews OR DevDiscuss podcasts on Apple Podcasts and get a free pack of DEV stickers.",
+- ✨  "dateAdded": 2018-02-18
+- 📫  "tags": ["stickers"]
   <br>
   <br>
   <br>   
