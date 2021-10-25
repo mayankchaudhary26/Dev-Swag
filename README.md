@@ -2,28 +2,6 @@
 
 
 
-
-## 7PHP
-<p align="center">
-<img src="https://7php.com/wp-content/uploads/2018/05/7php-sticker-v2.jpg" height="350" width="300">       
-</p>
-<br>
-
-"reference": "https://7php.com/stickers/"
-
-
-    "difficulty": "easy",
-    "description": "If you are a fan of 7PHP, send them an email and receive some free stickers!"
-    "dateAdded": 2018-11-23
-    "tags": ["stickers", "expired"]
-  
-  
-  <br>
-  <br>
-  <br>
-  
-
-
 ## Alligator.io
 <p align="center">
 <img src="https://pbs.twimg.com/profile_images/622200384455442432/hf71Z251_400x400.png" height="350" width="300">       
@@ -33,10 +11,10 @@
 "reference": "https://alligator.io/write-for-us"
 
  
-    "difficulty": "hard",
-    "description": "Write a blog post on frontend development topics, get some cool Alligator stickers!"
-    "dateAdded": "2018-12-09
-    "tags": ["stickers"]
+- 🔭  "difficulty": "hard",
+- 🌱  "description": "Write a blog post on frontend development topics, get some cool Alligator stickers!"
+- ✨  "dateAdded": "2018-12-09
+- 📫  "tags": ["stickers"]
   <br>
   <br>
   <br> 
@@ -44,15 +22,12 @@
 
 
 ## Appsmith
-
-  
-## 
 <p align="center">
 <img src=  "https://7php.com/wp-content/uploads/2018/05/7php-sticker-v2.jpg"   height="350" width="300">       
 </p>
 <br>
 
-"reference": 
+"reference": https://www.appsmith.com/blog/hacktoberfest-2021-let-the-contributions-begin
 
  
 - 🔭  "difficulty": "medium",
@@ -88,7 +63,7 @@
 </p>
 <br>
 
-"reference": 
+"reference": https://camunda.com/hacktoberfest2021
 
   
 - 🔭  "difficulty":  "medium",
@@ -107,7 +82,7 @@
 </p>
 <br>
 
-"reference": "https://codeship.com/swag",
+"reference": "https://codeship.com/swag"
 
 - 🔭  "difficulty": "medium",
 - 🌱  "description": "Leave a review about DevNews OR DevDiscuss podcasts on Apple Podcasts and get a free pack of DEV stickers.",
@@ -124,7 +99,7 @@
 </p>
 <br>
 
-"reference": "https://airtable.com/shr8oKAIMZgdYnBxx", 
+"reference": "https://airtable.com/shr8oKAIMZgdYnBxx"
 
   
 - 🔭  "difficulty": "easy",
@@ -142,7 +117,7 @@
 </p>
 <br>
 
-"reference": "https://devrant.com/free-stickers",
+"reference": "https://devrant.com/free-stickers"
 
  
 - 🔭  "difficulty": "medium",
@@ -154,19 +129,19 @@
   <br>   
     
   
-## 
+## Docusaurus
 <p align="center">
-<img src=    height="350" width="300">       
+<img src= "https://i.imgur.com/IbZCAWP.jpg"   height="350" width="300">       
 </p>
 <br>
 
-"reference": 
+"reference": https://github.com/facebook/docusaurus/issues/1834
 
  
-- 🔭  "difficulty": 
-- 🌱  "description": 
-- ✨  "dateAdded": 
-- 📫  "tags": 
+- 🔭  "difficulty": "hard",
+- 🌱  "description": "Get swag for migrating websites to Docusaurus 2!"
+- ✨  "dateAdded": 2019-10-27
+- 📫  "tags": ["stickers"]
   <br>
   <br>
   <br>   
@@ -186,16 +161,74 @@
   
   <!--
   
+## 
+<p align="center">
+<img src=    height="350" width="300">       
+</p>
+<br>
 
+"reference": 
 
-    "name": "Docusaurus",
-    "difficulty": "hard",
-    "description": "Get swag for migrating websites to Docusaurus 2!",
-    "reference": "https://github.com/facebook/docusaurus/issues/1834",
-    "image": "https://i.imgur.com/IbZCAWP.jpg",
-    "dateAdded": "2019-10-27T12:37:23.000Z",
-    "tags": ["stickers"]
-  },
+ 
+- 🔭  "difficulty": 
+- 🌱  "description": 
+- ✨  "dateAdded": 
+- 📫  "tags": 
+  <br>
+  <br>
+  <br>   
+  
+  ## 
+<p align="center">
+<img src=    height="350" width="300">       
+</p>
+<br>
+
+"reference": "https://github.com/facebook/docusaurus/issues/1834"
+
+ 
+- 🔭  "difficulty": 
+- 🌱  "description": 
+- ✨  "dateAdded": 
+- 📫  "tags": 
+  <br>
+  <br>
+  <br>   
+  
+  ## 
+<p align="center">
+<img src=    height="350" width="300">       
+</p>
+<br>
+
+"reference": 
+
+ 
+- 🔭  "difficulty": 
+- 🌱  "description": 
+- ✨  "dateAdded": 
+- 📫  "tags": 
+  <br>
+  <br>
+  <br>   
+  
+  ## 
+<p align="center">
+<img src=    height="350" width="300">       
+</p>
+<br>
+
+"reference": 
+
+ 
+- 🔭  "difficulty": 
+- 🌱  "description": 
+- ✨  "dateAdded": 
+- 📫  "tags": 
+  <br>
+  <br>
+  <br>   
+  
   {
     "name": "Earthly",
     "difficulty": "medium",
