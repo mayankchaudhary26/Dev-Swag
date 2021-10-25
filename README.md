@@ -23,7 +23,7 @@
 
 ## Appsmith
 <p align="center">
-<img src=  "https://7php.com/wp-content/uploads/2018/05/7php-sticker-v2.jpg"   height="350" width="300">       
+<img src=  "https://uploads-ssl.webflow.com/5f3d61ff1ad2bb54772d57de/614dbb8051b73a9c5ce9382e_Appsmith_HF2021%20(1)-p-1600.png"   height="350" width="300">       
 </p>
 <br>
 
