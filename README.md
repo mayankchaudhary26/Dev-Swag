@@ -73,8 +73,23 @@
   <br>
   <br>
   <br>     
-    
-  
+ 
+## Codedamn 
+<p align="center">
+<img src= https://i.ibb.co/PtdNZfw/Hacktober-Github-Banner.png   height="350" width="300">       
+</p>
+<br>
+
+"reference": https://codedamn.com/projects
+
+ 
+- 🔭  "difficulty": "medium",
+- 🌱  "description": Codedamn brings you a collection of projects to build in #hacktoberfest this year. Complete a single project, submit it on our GitHub repository, and win a                       t-shirt for free!(Ships only to India)
+- ✨  "dateAdded": 2022-10-22
+- 📫  "tags": ["clothing", "hacktoberfest"]
+  <br>
+  <br>
+  <br>     
   
 ## Codeship
 <p align="center">
